@@ -1,0 +1,6 @@
+@InfluenzaAPI_HostAddress = http://localhost:5259
+
+GET {{InfluenzaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
